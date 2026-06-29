@@ -25,7 +25,7 @@ Manage projects, assign tasks, collaborate with your team, and track progress â€
 |-----------|-----------------------------------|
 | Frontend  | React.js, Tailwind CSS, Axios     |
 | Backend   | Node.js, Express.js               |
-| Database  | MySQL, Sequelize ORM              |
+| Database  | MySQL,                            |
 | Auth      | JWT (JSON Web Tokens)             |
 | Others    | react-hot-toast, react-router-dom |
 
